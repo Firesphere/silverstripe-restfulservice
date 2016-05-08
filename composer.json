@@ -1,0 +1,14 @@
+{
+	"name": "firesphere/silverstripe-restfulservice",
+	"description": "Deprecated Restful Service for SilverStripe.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "restfulservice"],
+	"authors": [{
+		"name": "Simon 'Sphere' Erkelens",
+		"email": "simonerkelens@silverstripe.com"
+	}],
+	"require": {
+		"silverstripe/framework": "^4.0"
+	},
+	"license": "BSD-3-Clause"
+}

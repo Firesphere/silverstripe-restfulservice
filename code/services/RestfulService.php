@@ -6,6 +6,7 @@
  *
  * @package framework
  * @subpackage integration
+ * @deprecated Use Guzzle
  */
 class RestfulService extends ViewableData implements Flushable {
 

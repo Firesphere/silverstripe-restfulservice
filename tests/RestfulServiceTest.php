@@ -3,6 +3,7 @@
 /**
  * @package framework
  * @subpackage tests
+ * @deprecated
  */
 class RestfulServiceTest extends SapphireTest {
 
